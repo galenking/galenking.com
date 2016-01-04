@@ -3,6 +3,9 @@ title: Galen King
 url: http://galenking.siteleaf.net
 timezone: Pacific/Auckland
 collections:
+  companies:
+    title: Companies
+    output: true
   uploads:
     title: Uploads
     output: true

@@ -1,0 +1,9 @@
+---
+layout: default
+title: Blogging Like a Hacker
+---
+
+{% for company in companies %}
+<h1>{{ company.title }}</h1>
+<p>{{ company.website }}</p>
+{% endfor %}

@@ -11,6 +11,12 @@ collections:
     output: true
 defaults:
 - scope:
+    path: ""
+    type: "companies"
+  values:
+    website: ""
+    twitter: ""
+- scope:
     path: ''
     type: posts
   values:
